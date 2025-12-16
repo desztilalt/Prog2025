@@ -47,3 +47,4 @@ while (tipp!=kitalalando_szam):
             print("A kitalálandó szám kisebb.")
         
 print("Gratulálok, eltaláltad a számot!")
+
